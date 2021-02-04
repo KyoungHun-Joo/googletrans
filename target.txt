@@ -1,0 +1,335 @@
+﻿lang - gl
+Sinal de Flash.
+Crea o teu propio sinal de flash.
+Manipular tempo, cor e tempo para crear o seu propio sinal de flash
+
+lang - gu
+ફ્લેશ સિગ્નલ.
+તમારા પોતાના ફ્લેશ સિગ્નલ બનાવો.
+તમારા પોતાના ફ્લેશ સિગ્નલ બનાવવા માટે સમય, રંગ અને સમયનો ઉપયોગ કરો
+
+lang - el
+Σήμα φλας.
+Δημιουργήστε το δικό σας σήμα flash.
+Χειριστείτε το χρόνο, το χρώμα και το χρονοδιάγραμμα για να δημιουργήσετε το δικό σας σήμα flash
+
+lang - nl
+Flash-signaal.
+Maak je eigen flash-signaal.
+Manipuleren tijd, kleur en timing om je eigen flash-signaal te maken
+
+lang - ne
+फ्ल्यास संकेत।
+तपाईंको आफ्नै फ्ल्यास संकेत सिर्जना गर्नुहोस्।
+समय, र color ्ग, र समय तपाईंको आफ्नै फ्ल्यास संकेत सिर्जना गर्न
+
+lang - no
+Flash signal.
+Lag ditt eget flash-signal.
+Manipulere tid, farge og timing for å lage ditt eget flash-signal
+
+lang - da
+Flash signal.
+Opret dit eget flash-signal.
+Manipulere tid, farve og timing for at oprette dit eget flash signal
+
+lang - de
+Blitzsignal.
+Erstellen Sie Ihr eigenes Blitzsignal.
+Manipulieren Sie Zeit, Farbe und Timing, um Ihr eigenes Blitzsignal zu erstellen
+
+lang - lo
+ສັນຍານ Flash.
+ສ້າງສັນຍານແຟດຂອງທ່ານເອງ.
+ຫມູນໃຊ້ເວລາ, ສີ, ແລະເວລາທີ່ຈະສ້າງສັນຍານແຟດຂອງທ່ານເອງ
+
+lang - lv
+Zibspuldzes signāls.
+Izveidojiet savu zibspuldzes signālu.
+Manipulēt laiku, krāsu un laiku, lai izveidotu savu zibspuldzes signālu
+
+lang - ru
+Флэш-сигнал.
+Создайте свой собственный сигнал вспышки.
+Манипулировать время, цвет и время, чтобы создать свой собственный флэш-сигнал
+
+lang - ro
+Semnal flash.
+Creați propriul semnal flash.
+Manipulați timpul, culoarea și momentul pentru a vă crea propriul semnal Flash
+
+lang - lt
+"Flash" signalas.
+Sukurkite savo "Flash" signalą.
+Manipuliuoti laiką, spalvą ir laiką, kad sukurtumėte savo blykstės signalą
+
+lang - mr
+फ्लॅश सिग्नल.
+आपले स्वतःचे फ्लॅश सिग्नल तयार करा.
+आपले स्वत: चे फ्लॅश सिग्नल तयार करण्यासाठी वेळ, रंग आणि वेळ हाताळण्यासाठी
+
+lang - mk
+Флеш сигнал.
+Направете свој Flash сигнал.
+Манипулира со време, боја и тајминг за да креирате сопствен сигнал за блиц
+
+lang - ml
+ഫ്ലാഷ് സിഗ്നൽ.
+നിങ്ങളുടെ സ്വന്തം ഫ്ലാഷ് സിഗ്നൽ സൃഷ്ടിക്കുക.
+നിങ്ങളുടെ സ്വന്തം ഫ്ലാഷ് സിഗ്നൽ സൃഷ്ടിക്കുന്നതിന് സമയവും നിറവും സമയവും കൈകാര്യം ചെയ്യുക
+
+lang - ms
+Isyarat kilat.
+Buat isyarat kilat anda sendiri.
+Memanipulasi masa, warna, dan masa untuk membuat isyarat kilat anda sendiri
+
+lang - mn
+Флэш дохио.
+Өөрийнхөө флаш дохиоллыг бий болго.
+Цаг хугацаа, өнгө, цаг хугацаа, цаг хугацааг өөрийн флаш дохио үүсгэх
+
+lang - eu
+Flash seinalea.
+Sortu zure flash seinalea.
+Denbora, kolorea eta denbora manipulatu zure flash seinalea sortzeko
+
+lang - my
+flash signal ။
+သင်၏ကိုယ်ပိုင် flash signal ကိုဖန်တီးပါ။
+သင်၏ကိုယ်ပိုင် flash signal ကိုဖန်တီးရန်အချိန်, အရောင်နှင့်အချိန်ကိုက်ကြိုးနှင့်အချိန်ကိုက်
+
+lang - vi
+Tín hiệu flash.
+Tạo tín hiệu flash của riêng bạn.
+Thao tác thời gian, màu sắc và thời gian để tạo tín hiệu flash của riêng bạn
+
+lang - be
+Flash сігнал.
+Стварыце свой уласны сігнал Flash.
+Маніпуляванне часу, колер і тэрміны, каб стварыць свой уласны сігнал Flash
+
+lang - bn
+ফ্ল্যাশ সংকেত।
+আপনার নিজস্ব ফ্ল্যাশ সংকেত তৈরি করুন।
+আপনার নিজস্ব ফ্ল্যাশ সংকেত তৈরি করার জন্য সময়, রঙ, এবং সময় ম্যানিপুলেশন
+
+lang - bg
+Сигнал за светкавица.
+Създайте свой собствен сигнал за светкавица.
+Манипулиране на времето, цвят и време, за да създадете свой собствен сигнал за светкавица
+
+lang - sr
+Фласх сигнал.
+Креирајте свој сопствени сигнал за блиц.
+Манипулирајте време, боју и време за креирање сопственог флеш сигнала
+
+lang - sw
+Ishara ya flash.
+Unda ishara yako ya flash.
+Kuendesha muda, rangi, na wakati wa kuunda ishara yako ya flash
+
+lang - sv
+Flash-signal.
+Skapa din egen flashsignal.
+Manipulera tid, färg och timing för att skapa din egen flashsignal
+
+lang - es
+Señal de flash.
+Crea tu propia señal de flash.
+Manipular tiempo, color y momento para crear su propia señal de flash
+
+lang - sk
+Flash signál.
+Vytvorte si vlastný flash signál.
+Manipulovať čas, farbu a načasovanie na vytvorenie vlastného signálu Flash
+
+lang - sl
+Signal Flash.
+Ustvarite svoj flash signal.
+Manipulirajte čas, barvo in čas, da ustvarite svoj flash signal
+
+lang - si
+ෆ්ලෑෂ් සං .ා.
+ඔබේම ෆ්ලෑෂ් සං .ාවක් සාදන්න.
+ඔබේම ෆ්ලෑෂ් සං .ාවක් නිර්මාණය කිරීම සඳහා කාලය, වර්ණය සහ වේලාව හැසිරවීම
+
+lang - ar
+إشارة فلاش.
+إنشاء إشارة الفلاش الخاصة بك.
+التعامل مع الوقت واللون والتوقيت لإنشاء إشارة الفلاش الخاصة بك
+
+lang - hy
+Flash ազդանշան:
+Ստեղծեք ձեր սեփական ֆլեշ ազդանշանը:
+Ձեռք բերեք ժամանակը, գույնը եւ ժամկետը `ձեր սեփական ֆլեշ ազդանշանը ստեղծելու համար
+
+lang - is
+Flash merki.
+Búðu til þitt eigið flassmerki.
+Meðhöndla tíma, lit og tímasetningu til að búa til eigin glampi merki
+
+lang - az
+Flash siqnal.
+Öz flash siqnalınızı yaradın.
+Öz flash siqnalınızı yaratmaq üçün vaxt, rəng və vaxtı manipulyasiya edin
+
+lang - af
+Flash sein.
+Skep jou eie Flash Signal.
+Manipuleer tyd, kleur en tydsberekening om jou eie flitsein te skep
+
+lang - sq
+Sinjal flash.
+Krijo sinjalin tuaj flash.
+Manipuloni kohën, ngjyrën dhe kohën për të krijuar sinjalin tuaj flash
+
+lang - am
+የፍላሽ ምልክት.
+የራስዎን የፍላሽ ምልክት ይፍጠሩ.
+የራስዎን የፍላሽ ምልክት ለመፍጠር ጊዜ, ቀለም እና ጊዜን ያዙሩ
+
+lang - et
+Flash signaali.
+Loo oma välgu signaali.
+Manipuleerida aega, värvi ja ajastuse luua oma välgu signaali
+
+lang - ur
+فلیش سگنل.
+اپنا اپنا فلیش سگنل بنائیں.
+اپنا اپنا فلیش سگنل بنانے کے لئے وقت، رنگ، اور ٹائمنگ کو جوڑی
+
+lang - uk
+Флеш-сигнал.
+Створіть свій власний спалах.
+Маніпулювати час, колір та час створення власного спалаху
+
+lang - it
+Segnale flash.
+Crea il tuo segnale flash.
+Manipola tempo, colore e tempismo per creare il proprio segnale flash
+
+lang - id
+Sinyal flash.
+Buat sinyal flash Anda sendiri.
+Memanipulasi waktu, warna, dan waktu untuk membuat sinyal flash Anda sendiri
+
+lang - ja
+フラッシュ信号。
+独自のフラッシュ信号を作成してください。
+時間、色、およびタイミングを操作して、独自のフラッシュ信号を作成します。
+
+lang - ka
+Flash სიგნალი.
+შექმნა საკუთარი Flash სიგნალი.
+მანიპულირება დრო, ფერი და დრო, რათა შეიქმნას საკუთარი Flash სიგნალი
+
+lang - zu
+Isiginali ye-Flash.
+Dala isinali yakho ye-flash.
+Khohlisa isikhathi, umbala, kanye nesikhathi ukudala isinali yakho ye-flash
+
+lang - zh
+闪光灯信号。
+创建自己的闪光灯信号。
+操纵时间，颜色和时序以创建自己的闪光灯信号
+
+lang - cs
+Blesk.
+Vytvořte si vlastní flash signál.
+Manipulujte čas, barvu a načasování a vytvořte si vlastní flash signál
+
+lang - kk
+Жарқыл сигналы.
+Өзіңіздің флэш сигналыңызды жасаңыз.
+Жеке флэш сигналын жасау үшін уақыт, түс және уақытты басқарыңыз
+
+lang - ca
+Senyal flash.
+Creeu el vostre propi senyal flash.
+Manipular el temps, el color i la sincronització per crear el vostre propi senyal flash
+
+lang - kn
+ಫ್ಲ್ಯಾಶ್ ಸಿಗ್ನಲ್.
+ನಿಮ್ಮ ಸ್ವಂತ ಫ್ಲ್ಯಾಶ್ ಸಿಗ್ನಲ್ ಅನ್ನು ರಚಿಸಿ.
+ನಿಮ್ಮ ಸ್ವಂತ ಫ್ಲ್ಯಾಶ್ ಸಿಗ್ನಲ್ ಅನ್ನು ರಚಿಸಲು ಸಮಯ, ಬಣ್ಣ ಮತ್ತು ಸಮಯವನ್ನು ಕುಶಲತೆಯಿಂದ ನಿರ್ವಹಿಸಿ
+
+lang - hr
+Signal bljeskalice.
+Izradite vlastiti flash signal.
+Manipulirati vrijeme, boju i vrijeme za stvaranje vlastitog flash signala
+
+lang - km
+សញ្ញាពន្លឺ។
+បង្កើតសញ្ញាពន្លឺផ្ទាល់ខ្លួនរបស់អ្នក។
+រៀបចំពេលវេលាពណ៌និងពេលវេលាដើម្បីបង្កើតសញ្ញាពន្លឺផ្ទាល់ខ្លួនរបស់អ្នក
+
+lang - ky
+Флэш сигналы.
+Өзүңүздүн флэш-сигналыңызды түзүңүз.
+Өзүңүздүн флэш-сигналды түзүү үчүн убакытты, түсүн жана мөөнөтүн манипуляциялоо
+
+lang - ta
+ஃப்ளாஷ் சைகை.
+உங்கள் சொந்த ஃப்ளாஷ் சமிக்ஞை உருவாக்கவும்.
+உங்கள் சொந்த ஃப்ளாஷ் சிக்னலை உருவாக்க நேரம், நிறம் மற்றும் நேரம் கையாளவும்
+
+lang - th
+สัญญาณแฟลช
+สร้างสัญญาณแฟลชของคุณเอง
+จัดการเวลาสีและเวลาในการสร้างสัญญาณแฟลชของคุณเอง
+
+lang - tr
+Flaş sinyali.
+Kendi flaş sinyalinizi oluşturun.
+Kendi flaş sinyalinizi oluşturmak için zaman, rengi ve zamanlamayı manipüle edin
+
+lang - te
+ఫ్లాష్ సిగ్నల్.
+మీ సొంత ఫ్లాష్ సిగ్నల్ సృష్టించండి.
+మీ సొంత ఫ్లాష్ సిగ్నల్ సృష్టించడానికి సమయం, రంగు, మరియు టైమింగ్ సవరించడానికి
+
+lang - pa
+ਫਲੈਸ਼ ਸਿਗਨਲ.
+ਆਪਣੇ ਖੁਦ ਦੇ ਫਲੈਸ਼ ਸਿਗਨਲ ਬਣਾਓ.
+ਆਪਣੇ ਖੁਦ ਦੇ ਫਲੈਸ਼ ਸਿਗਨਲ ਬਣਾਉਣ ਲਈ ਸਮਾਂ, ਰੰਗ, ਅਤੇ ਸਮਾਂ ਬਦਲਣਾ
+
+lang - fa
+سیگنال فلش
+سیگنال فلش خود را ایجاد کنید.
+دستکاری زمان، رنگ و زمان بندی برای ایجاد سیگنال فلش خود را
+
+lang - pt
+Sinal flash.
+Crie seu próprio sinal de flash.
+Manipulate tempo, cor e tempo para criar seu próprio sinal flash
+
+lang - pl
+Sygnał flash.
+Utwórz swój własny sygnał flash.
+Manipuluj czas, kolor i czas, aby utworzyć własny sygnał flash
+
+lang - fr
+Signal Flash.
+Créez votre propre signal Flash.
+Manipuler le temps, la couleur et le chronométrage pour créer votre propre signal flash
+
+lang - fil
+Flash signal.
+Lumikha ng iyong sariling flash signal.
+Manipulahin ang oras, kulay, at tiyempo upang lumikha ng iyong sariling flash signal
+
+lang - hu
+Flash jel.
+Hozzon létre saját vakujelet.
+Manipulálja az időt, a színt és az időzítést saját flash jel létrehozásához
+
+lang - iw
+אות פלאש.
+צור אות פלאש משלך.
+לתפעל זמן, צבע, ועיתוי כדי ליצור אות פלאש משלך
+
+lang - hi
+फ्लैश सिग्नल।
+अपना खुद का फ्लैश सिग्नल बनाएं।
+अपना फ्लैश सिग्नल बनाने के लिए समय, रंग और समय में हेरफेर करें
+
